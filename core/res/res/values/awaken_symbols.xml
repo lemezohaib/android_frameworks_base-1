@@ -101,4 +101,13 @@
 
     <!-- Whether to cancel fingerprint operation if not idle -->
     <java-symbol type="bool" name="config_fpCancelIfNotIdle" />
+
+    <!-- Fingerprint from a certified device against current platform SPL level -->
+    <java-symbol type="string" name="config_certifiedFingerprint" />
+
+    <!-- Fingerprint from stock ROM -->
+    <java-symbol type="string" name="config_stockFingerprint" />
+
+    <!-- Device model (Build.MODEL) to spoof for netflix, if not empty -->
+    <java-symbol type="string" name="config_netflixSpoofModel" />
 </resources>
