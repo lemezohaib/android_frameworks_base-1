@@ -26,6 +26,7 @@
         <Layout
             android:layout_width="wrap_content"
             android:layout_height="0dp"
+            android:layout_marginStart="2dp"
             app:layout_constraintStart_toStartOf="@id/begin_guide"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
