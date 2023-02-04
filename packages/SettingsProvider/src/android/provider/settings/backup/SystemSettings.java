@@ -102,6 +102,5 @@ public class SystemSettings {
         Settings.System.LOCKSCREEN_BATTERY_INFO,
         Settings.System.NOTIFICATION_VIBRATION_PATTERN,
         Settings.System.CUSTOM_NOTIFICATION_VIBRATION_PATTERN,
-        Settings.System.ENABLE_RIPPLE_EFFECT,
     };
 }
