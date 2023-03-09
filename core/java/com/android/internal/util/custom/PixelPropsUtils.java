@@ -35,7 +35,7 @@ import java.util.Set;
 
 public class PixelPropsUtils {
 
-    private static final String TAG = PixelPropsUtils.class.getSimpleName();
+    private static final String TAG = "PixelPropsUtils";
     private static final boolean DEBUG = false;
     private static final boolean DEBUG_PACKAGES = false;
 
