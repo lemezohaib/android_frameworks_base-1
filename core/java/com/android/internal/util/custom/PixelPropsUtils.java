@@ -32,7 +32,7 @@ import java.util.Map;
 
 public class PixelPropsUtils {
 
-    private static final String TAG = PixelPropsUtils.class.getSimpleName();
+    private static final String TAG = "PixelPropsUtils";
     private static final boolean DEBUG = false;
 
     public static final String PACKAGE_NETFLIX = "com.netflix.mediaclient";
